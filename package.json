@@ -1,16 +1,15 @@
 {
   "name": "pf-xiaochengxu-pvuv",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "小程序埋点代码",
   "main": "index.js",
-  "private": true,
   "scripts": {
     "build": "webpack --config webpack.config.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "http://gitlab.huayong.mm/pf_frontend/pf-xiaochengxu-pvuv.git"
+    "url": "https://github.com/w156ww/pf-xiaochengxu-pvuv.git"
   },
   "author": "",
   "license": "ISC",
