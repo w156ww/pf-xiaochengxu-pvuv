@@ -1,6 +1,6 @@
 {
   "name": "pf-xiaochengxu-pvuv",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "小程序埋点代码",
   "main": "index.js",
   "scripts": {
