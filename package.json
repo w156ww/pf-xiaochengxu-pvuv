@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/w156ww/pf-xiaochengxu-pvuv.git"
   },
-  "author": "",
+  "author": "wangc",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.14.6",
